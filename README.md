@@ -4,7 +4,7 @@
 
 Данная программа предназначена для отображения сотрудников по API из базы данных.
 
-ССылка на задеплоенную версию - https://employee-search-app.vercel.app/
+ССылка на задеплоенную версию - https://react-employee-search-5ybrki9ko-hardmode551.vercel.app/
 
 Стек технологий при разработке:
 - React + typeScript + Redux\Redux Toolkit
